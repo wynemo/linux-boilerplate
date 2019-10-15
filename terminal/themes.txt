@@ -1,0 +1,2 @@
+https://github.com/sonph/onehalf/tree/master/windowsterminal
+https://github.com/sonph/onehalf/blob/master/terminal/OneHalfDark.terminal
